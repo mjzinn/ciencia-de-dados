@@ -2,7 +2,7 @@
 
 :root {
     --bg-color: #08234d;
-    --primary-color: #70d9f7;
+    --primary-color: #ee2929;
     --secondary-color: #F05454;
     --font: "Nunito Sans", sans-serif;
 }
@@ -49,14 +49,14 @@ nav a:hover {
 
 .graficos-container {
     margin: 5rem;
-    filter: drop-shadow(1px 1px 20px rgb(23, 136, 55));
+    filter: drop-shadow(1px 1px 20px rgb(109, 228, 239));
     border-radius: 10px;
 
 }
 
 .grafico {
     margin-top: 3rem;
-    filter: drop-shadow(1px 1px 20px rgb(23, 136, 55));
+    filter: drop-shadow(1px 1px 20px rgb(245, 24, 24));
     border-radius: 10px;
 }
 
