@@ -2,7 +2,7 @@
 
 :root {
     --bg-color: #08234d;
-    --primary-color: #f53f3f;
+    --primary-color: #ee2929;
     --secondary-color: #F05454;
     --font: "Nunito Sans", sans-serif;
 }
@@ -56,7 +56,7 @@ nav a:hover {
 
 .grafico {
     margin-top: 3rem;
-    filter: drop-shadow(1px 1px 20px rgb(121, 237, 248));
+    filter: drop-shadow(1px 1px 20px rgb(245, 24, 24));
     border-radius: 10px;
 }
 
@@ -166,7 +166,7 @@ ul {
   
   .example-2 .icon-content a[data-social="linkedin"] .filled,
   .example-2 .icon-content a[data-social="linkedin"] ~ .tooltip {
-    background-color: #f23731;
+    background-color: #0274b3;
   }
   
   .example-2 .icon-content a[data-social="github"] .filled,
@@ -189,3 +189,4 @@ ul {
   .example-2 .icon-content a[data-social="youtube"] ~ .tooltip {
     background-color: #ff0000;
   }
+  
