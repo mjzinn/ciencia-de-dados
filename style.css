@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root {
-    --bg-color: #08234d;
-    --primary-color: #ee2929;
-    --secondary-color: #F05454;
+    --bg-color: #254983;
+    --primary-color: #63fdbfd7;
+    --secondary-color: #63fdbfd7;
     --font: "Nunito Sans", sans-serif;
 }
 
@@ -49,14 +49,14 @@ nav a:hover {
 
 .graficos-container {
     margin: 5rem;
-    filter: drop-shadow(1px 1px 20px rgb(109, 228, 239));
+    filter: drop-shadow(1px 1px 20px rgb(18, 106, 157));
     border-radius: 10px;
 
 }
 
 .grafico {
     margin-top: 3rem;
-    filter: drop-shadow(1px 1px 20px rgb(245, 24, 24));
+    filter: drop-shadow(1px 1px 20px rgb(37, 226, 240));
     border-radius: 10px;
 }
 
@@ -166,7 +166,7 @@ ul {
   
   .example-2 .icon-content a[data-social="linkedin"] .filled,
   .example-2 .icon-content a[data-social="linkedin"] ~ .tooltip {
-    background-color: #0274b3;
+    background-color: #1d8ca8;
   }
   
   .example-2 .icon-content a[data-social="github"] .filled,
@@ -187,6 +187,6 @@ ul {
   }
   .example-2 .icon-content a[data-social="youtube"] .filled,
   .example-2 .icon-content a[data-social="youtube"] ~ .tooltip {
-    background-color: #ff0000;
+    background-color: #00bbff;
   }
   
